@@ -13,6 +13,10 @@ This tool leverages a unique characteristic of the Windows Calculator (`calc.exe
   <img src="https://github.com/pentestfunctions/Reusing-Strings/blob/main/images/gif.gif?raw=true">
 </p>
 
+<p align="center">
+  <img src="https://github.com/pentestfunctions/Reusing-Strings/blob/main/images/ps1.gif?raw=true">
+</p>
+
 - The Windows Calculator binary remains remarkably consistent across different Windows installations
 - String patterns and positions within `calc.exe` are nearly identical across systems
 - This consistency allows us to:
